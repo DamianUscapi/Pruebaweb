@@ -1,1 +1,1 @@
-<h1 color="blue">PRUEBA WEB</h1>
+<h1 style="color:blue">PRUEBA WEB</h1>
